@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Genel stil ayarları */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif; /* Tüm elementler için Roboto fontu kullanılıyor */
+}
+
+h2 {
+    text-align: center;
+    margin-top: 1%; /* Başlık için hafif bir üst boşluk */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%; /* İçerik container'ını ortalamak için */
+    font-size: 20px; /* Genel font boyutu */
+}
+
+/* Tablo stilleri */
+table td,
+th {
+    padding: 5px;
+    border: 1px solid black; /* Hücre ve başlık kenarlıkları */
+}
+
+.hide {
+    display: none; /* Gizlenmiş elementler için */
+}
+
+/* İşlem Butonu */
+#submit{
+    padding: 10px;
+    font-size: 15px; /* Butonun metin font boyutu */
+    background-color: black; /* Arka plan rengi */
+    color: white; /* Yazı rengi */
+}
