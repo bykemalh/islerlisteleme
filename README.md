@@ -9,7 +9,6 @@ Bu proje, basit bir iş yönetim sistemi sağlar. Kullanıcılar iş ekleyebilir
 - **İş Düzenleme:** Kullanıcılar mevcut işleri güncelleyebilir.
 - **İş Tamamlama:** İşlerin tamamlanma durumları güncellenebilir.
 - **İş Silme:** Kullanıcılar mevcut işleri silebilir.
-- **Dark Mode:** Kullanıcılar arayüzü karanlık moda geçirebilirler.
 
 ## Kurulum
 
