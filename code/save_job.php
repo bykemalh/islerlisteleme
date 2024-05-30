@@ -1,9 +1,9 @@
 <?php
 // Veritabanı bağlantısı
-$servername = "";
-$username = "";
+$servername = "localhost";
+$username = "root";
 $password = "";
-$dbname = "";
+$dbname = "isler";
 
 // Veritabanı bağlantısını oluşturma
 $conn = new mysqli($servername, $username, $password, $dbname);
